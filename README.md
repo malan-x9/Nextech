@@ -6,7 +6,7 @@ A modern full-stack e-commerce website for PC components and tech accessories, i
 
 ## 🚀 Live Demo
 
-> Coming soon...
+> https://techstore-two-pearl.vercel.app
 
 ---
 
